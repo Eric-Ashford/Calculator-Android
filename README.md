@@ -1,9 +1,5 @@
-# Calculator Application in Kotlin
-## By Eric Ashford
-### Project Goal
-> The goal of this project was to create a funcational standard calculator.
-
-<img src="https://i.imgur.com/KCLIvH0.png" width="300px" height="550px"/>
+<img src="https://i.imgur.com/NkrKUtg.png"/>
+<img src="https://i.imgur.com/Z2H1dpG.png"/>
 
 ### Accomplishments
 > Assigning values to button events to be used in calculations by concatenating their values into a string, then converting that string into a Double data type.
