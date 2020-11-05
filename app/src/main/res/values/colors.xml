@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="darkBlue">#0D2340</color>
+    <color name="seaBlue">#165873</color>
+    <color name="skyBlue">#88F2F2</color>
+    <color name="blueGreen">#0AA696</color>
+    <color name="aquaBlue">#1BF2CB</color>
+    <color name="darkSeaBlue">#15546E</color>
+    <color name="darkGrey">#FF373737</color>
+    <color name="lightGrey">#FF717171</color>
+
+</resources>
